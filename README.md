@@ -1,128 +1,180 @@
 <div align="center">
-  <img src="assets/nord-logo.png" width="130" height="130" alt="NorD Logo" style="border-radius: 50%;" />
 
-  <h1>Андрей Щеглов (NorD)</h1>
-  
-  <a href="https://github.com/nordz0r">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vcenter=true&width=750&lines=Lead+DevOps+%26+MLOps+Engineer;15%2B+Years+in+IT+%7C+4%2B+Years+in+MLOps+%26+AI+Infra;GPU+Kubernetes+Clusters+%7C+LLM+%7C+Zero+Trust;Infrastructure+as+Code+%7C+High-Availability+Architect" alt="Typing SVG" />
-  </a>
+<img src="assets/nord-logo.png" width="130" height="130" alt="NorD" style="border-radius: 50%;" />
 
-  <br/><br/>
+<br/>
 
-  <p align="center">
-    <a href="https://cv.gldf.ru" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_CV_Website-cv.gldf.ru-00E5FF?style=for-the-badge" alt="CV Website"/>
-    </a>
-    <a href="https://t.me/m0Rda" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@m0Rda-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://career.habr.com/thenord" target="_blank">
-      <img src="https://img.shields.io/badge/Habr_Career-thenord-6592a7?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Career"/>
-    </a>
-    <a href="https://github.com/nordz0r">
-      <img src="https://img.shields.io/badge/Location-St._Petersburg-7928CA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-    </a>
-  </p>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Andrey+Shcheglov+(NorD);Lead+DevOps+%26+MLOps+Engineer;GPU+Kubernetes+Clusters+%7C+LLM+%7C+Zero+Trust;Infrastructure+as+Code+%7C+High-Availability+Architect" alt="NorD" />
 
----
+<br/>
 
-### ⚡ О себе / Summary
+<sub>15+ years in IT · 4+ years in MLOps & AI Infra · St. Petersburg · Building infrastructure that does not wake people up at 3 AM</sub>
 
-DevOps/MLOps-инженер с опытом **более 15 лет в ИТ**. Проектирую отказоустойчивую инфраструктуру и автоматизирую процессы высокой сложности. Специализируюсь на **MLOps & AI Infrastructure**: оптимизация ML/DL-нагрузок, настройка **GPU-кластеров Kubernetes (NVIDIA MIG, vGPU)**, развертывание AI-решений (LLM, Open WebUI, LiteLLM, vLLM, ASR/TTS).
+<br/><br/>
 
-Следую подходу **Infrastructure as Code (IaC)**, практикам **DevSecOps** и принципам **Zero Trust**. Беру end-to-end ответственность за эксплуатационную готовность сервисов: delivery, capacity planning, observability, runbooks и Postmortem.
+<a href="https://cv.gldf.ru"><img src="https://img.shields.io/badge/CV-cv.gldf.ru-00E5FF?style=flat-square&logo=aboutdotme&logoColor=black" /></a>&nbsp;
+<a href="https://t.me/m0Rda"><img src="https://img.shields.io/badge/Telegram-@m0Rda-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>&nbsp;
+<a href="https://career.habr.com/thenord"><img src="https://img.shields.io/badge/Habr_Career-thenord-65A2BE?style=flat-square&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/nordz0r"><img src="https://img.shields.io/badge/Location-St._Petersburg-7928CA?style=flat-square&logo=googlemaps&logoColor=white" /></a>
 
----
-
-### 🛠️ Технический стек & Компетенции
-
-<div align="center">
-
-#### 🤖 MLOps, AI & Speech Tech
-![Kubernetes GPU](https://img.shields.io/badge/Kubernetes_GPU/MIG-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM_/_vLLM-00E5FF?style=for-the-badge&logo=openai&logoColor=black)
-![Open WebUI](https://img.shields.io/badge/Open_WebUI-10A37F?style=for-the-badge&logo=robot&logoColor=white)
-![ASR/TTS/NER](https://img.shields.io/badge/Speech_Bots_(ASR/TTS/NER)-FF6F00?style=for-the-badge&logo=micro-dot&logoColor=white)
-![Trino/Iceberg](https://img.shields.io/badge/Datalab_(Trino/Iceberg/PostgreSQL)-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🚀 DevOps, CI/CD & Cloud Infrastructure
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-#### 🏗️ IaC, Automation & Languages
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-#### 🛡️ Security, Networks & Telemetry
-![Keycloak](https://img.shields.io/badge/Keycloak_OAuth2-4D4D4D?style=for-the-badge&logo=redhat&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![Xray/VLESS](https://img.shields.io/badge/Xray_VLESS_REALITY-00E5FF?style=for-the-badge&logo=shield&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Asterisk](https://img.shields.io/badge/FreeSWITCH_/_Asterisk-F36F21?style=for-the-badge&logo=asterisk&logoColor=white)
-
-</div>
-
----
-
-### 💼 Опыт работы / Work Experience
-
-| Период | Компания | Роль | Ключевые задачи и достижения |
-| :--- | :--- | :--- | :--- |
-| **09.2024 — н.в.** | **БИАТЕХ** | **Ведущий DevOps-инженер** | Вывод AI Hub в PROD (Open WebUI + LiteLLM + Redis + Keycloak). Настройка GPU в K8s (MIG, vRAM slicing). Datalab (Trino, Iceberg, OPA). |
-| **08.2023 — 09.2024** | **Imhio** (Лимассол, Кипр) | **Старший DevOps-инженер** | Bare Metal, AWS, Azure, CI/CD (GitLab, ArgoCD). IaC (Terraform, Terragrunt, Ansible), HA-решения (Nginx, Traefik, Keepalived), системы видеообработки. |
-| **06.2022 — 08.2023** | **BSS** | **Старший MLOps-инженер** | Разработка и внедрение речевых ботов (NER, ASR, TTS) для МФЦ Москвы, СПб, Тулы. Миграция в K8s/Helm. Телефония (FreeSWITCH, Asterisk). |
-| **01.2022 — 05.2022** | **EPAM Systems** | **Cloud & DevOps Intern** | AWS (EKS, VPC, ALB, RDS, S3), K8s, Docker, Terraform, Ansible, Jenkins, GitLab CI. |
-| **08.2020 — 01.2022** | **АО «Проектный Институт №1»** | **Старший системный админ** | Виртуализация VMware vSphere/Horizon, Cloud storage, strongSwan IKEv2 VPN, Zabbix. |
-| **09.2014 — 08.2020** | **Сеть «Суши ШОП»** | **Старший системный админ** | Сетевая инфраструктура VPN L2/L3 (Cisco/HP), Колл-центр Asterisk, ESXi, 1С, Zabbix. |
-
----
-
-### 🎓 Образование
-
-- 🎓 **СПбГМТУ** (Санкт-Петербургский государственный морской технический университет) — *Информационные системы и технологии* (2011–2015).
-- ☁️ **EPAM University Program** — *Cloud & DevOps Internship* (2022).
-
----
-
-### 🔥 Избранные Open-Source Репозитории
-
-| Репозиторий | Описание | Стек |
-| :--- | :--- | :---: |
-| 🛡️ **[proxy-vpn](https://github.com/nordz0r/proxy-vpn)** | HTTP/SOCKS5 proxy over Xray (VLESS + REALITY) в Docker (Amnezia compatible). | `Shell` `Docker` `Xray` |
-| 🔒 **[vpn-ikev2](https://github.com/nordz0r/vpn-ikev2)** | Автоматизированная установка StrongSWAN IKEv2 + Let's Encrypt VPN. | `Shell` `StrongSWAN` |
-| 🤖 **[chatGPT](https://github.com/nordz0r/chatGPT)** | Telegram-бот для OpenAI ChatGPT с сохранением контекста диалогов. | `Python` `OpenAI` `Telegram` |
-| ⚡ **[open-terminal](https://github.com/nordz0r/open-terminal)** | Компьютерный интерфейс, доступный через обычный `curl`. | `Python` `CLI` |
-| 📱 **[turnbridge](https://github.com/nordz0r/turnbridge)** | iOS клиентское приложение для управления туннелями TurnBridge. | `Swift` `iOS` |
-| 📊 **[sysinfo](https://github.com/nordz0r/sysinfo)** | Утилита мониторинга и телеметрии Linux-систем. | `Shell` `Linux` |
-
----
-
-### 📈 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nordz0r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nordz0r&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nordz0r&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+**Daily**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/HCL_(Terraform)-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+
+**Infra**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+**Cloud**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Bare_Metal-4D4D4D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
 </div>
 
----
+<details>
+<summary>&nbsp;<b>full stack</b>&nbsp;—&nbsp;всё, что ломалось и чинилось</summary>
+<br/>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/RegEx-131313?style=flat-square&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/K8s_GPU_(MIG%2FvGPU)-00E5FF?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Terragrunt-7B42BC?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" />
+<img src="https://img.shields.io/badge/Keepalived-4D4D4D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/ESXi-607078?style=flat-square&logo=vmware&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/LiteLLM-00E5FF?style=flat-square&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/vLLM-4D4D4D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_WebUI-10A37F?style=flat-square&logo=robot&logoColor=white" />
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white" />
+<img src="https://img.shields.io/badge/Xray_VLESS_REALITY-00E5FF?style=flat-square&logo=shield&logoColor=black" />
+<img src="https://img.shields.io/badge/StrongSwan_IKEv2-4D4D4D?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/FreeSWITCH-F36F21?style=flat-square&logo=freeswitch&logoColor=white" />
+<img src="https://img.shields.io/badge/Asterisk-F36F21?style=flat-square&logo=asterisk&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Trino-DD00A5?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Iceberg-00E5FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OPA_(Open_Policy_Agent)-7D9199?style=flat-square&logo=openpolicyagent&logoColor=white" />
+<img src="https://img.shields.io/badge/ASR%2FTTS%2FNER-FF6F00?style=flat-square&logo=micro-dot&logoColor=white" />
+</p>
+
+</details>
+
+<br/>
 
 <div align="center">
-  <sub><i>"Automation is not a luxury, it's a way of life." — <b>Андрей Щеглов (NorD)</b></i></sub>
+
+### 🛠️ Featured projects
+
+| Project | What it does | Stars |
+| --- | --- | --- |
+| [`vpn-ikev2`](https://github.com/nordz0r/vpn-ikev2) | Automated StrongSwan IKEv2 + Let's Encrypt VPN installation — one script, working VPN. | ![](https://img.shields.io/github/stars/nordz0r/vpn-ikev2?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`skills`](https://github.com/nordz0r/skills) | Personal collection of AI agent skills. | ![](https://img.shields.io/github/stars/nordz0r/skills?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`proxy-vpn`](https://github.com/nordz0r/proxy-vpn) | HTTP/SOCKS5 proxy over Xray (VLESS + REALITY) in Docker, Amnezia compatible. | ![](https://img.shields.io/github/stars/nordz0r/proxy-vpn?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`sysinfo`](https://github.com/nordz0r/sysinfo) | Linux system monitoring and telemetry utility. | ![](https://img.shields.io/github/stars/nordz0r/sysinfo?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`nopaste`](https://github.com/nordz0r/nopaste) | Self-hosted paste service. | ![](https://img.shields.io/github/stars/nordz0r/nopaste?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`chatGPT`](https://github.com/nordz0r/chatGPT) | Telegram bot for OpenAI ChatGPT with dialog context persistence. | ![](https://img.shields.io/github/stars/nordz0r/chatGPT?style=flat-square&logo=github&label=&color=00E5FF) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nordz0r&show_icons=true&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=nordz0r&show_icons=true&title_color=00E5FF&text_color=24292f&icon_color=00E5FF&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nordz0r&show_icons=true&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nordz0r&title_color=00E5FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nordz0r&title_color=00E5FF&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nordz0r&title_color=00E5FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nordz0r&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nordz0r&hide_border=true&background=ffffff&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img src="https://streak-stats.demolab.com?user=nordz0r&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nordz0r/nordz0r/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nordz0r/nordz0r/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nordz0r/nordz0r/output/github-snake.svg" alt="snake" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>infrastructure that does not wake people up at 3 AM — powered by automation, zero trust, and strong coffee</sub>
+
+<br/><br/>
+
+[![](https://komarev.com/ghpvc/?username=nordz0r&color=00E5FF&style=flat-square&label=)](https://github.com/nordz0r)
+
 </div>
