@@ -120,12 +120,11 @@
 
 | Project | What it does | Stars |
 | --- | --- | --- |
-| [`vpn-ikev2`](https://github.com/nordz0r/vpn-ikev2) | Automated StrongSwan IKEv2 + Let's Encrypt VPN installation — one script, working VPN. | ![](https://img.shields.io/github/stars/nordz0r/vpn-ikev2?style=flat-square&logo=github&label=&color=00E5FF) |
-| [`skills`](https://github.com/nordz0r/skills) | Personal collection of AI agent skills. | ![](https://img.shields.io/github/stars/nordz0r/skills?style=flat-square&logo=github&label=&color=00E5FF) |
-| [`proxy-vpn`](https://github.com/nordz0r/proxy-vpn) | HTTP/SOCKS5 proxy over Xray (VLESS + REALITY) in Docker, Amnezia compatible. | ![](https://img.shields.io/github/stars/nordz0r/proxy-vpn?style=flat-square&logo=github&label=&color=00E5FF) |
-| [`sysinfo`](https://github.com/nordz0r/sysinfo) | Linux system monitoring and telemetry utility. | ![](https://img.shields.io/github/stars/nordz0r/sysinfo?style=flat-square&logo=github&label=&color=00E5FF) |
-| [`nopaste`](https://github.com/nordz0r/nopaste) | Self-hosted paste service. | ![](https://img.shields.io/github/stars/nordz0r/nopaste?style=flat-square&logo=github&label=&color=00E5FF) |
-| [`chatGPT`](https://github.com/nordz0r/chatGPT) | Telegram bot for OpenAI ChatGPT with dialog context persistence. | ![](https://img.shields.io/github/stars/nordz0r/chatGPT?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`skills`](https://github.com/nordz0r/skills) | 26 skills for Claude Code, Codex, Hermes and other agents that read `SKILL.md`. | ![skills stars](https://img.shields.io/github/stars/nordz0r/skills?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`opencodex-docker`](https://github.com/nordz0r/opencodex-docker) | Prebuilt multi-arch Docker image of OpenCodex: daily upstream detection, SBOM + attestation. | ![opencodex-docker stars](https://img.shields.io/github/stars/nordz0r/opencodex-docker?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`herdr-opencodex`](https://github.com/nordz0r/herdr-opencodex) | Herdr plugins for OpenCodex: spend stats and remaining 5h/7d quota in the sidebar. | ![herdr-opencodex stars](https://img.shields.io/github/stars/nordz0r/herdr-opencodex?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`nopaste`](https://github.com/nordz0r/nopaste) | Self-hosted pastebin for text, logs, notes and configs. One container. | ![nopaste stars](https://img.shields.io/github/stars/nordz0r/nopaste?style=flat-square&logo=github&label=&color=00E5FF) |
+| [`proxy-vpn`](https://github.com/nordz0r/proxy-vpn) | HTTP/SOCKS5 proxy over Xray (VLESS + REALITY) in Docker, works with Amnezia VPN configs. | ![proxy-vpn stars](https://img.shields.io/github/stars/nordz0r/proxy-vpn?style=flat-square&logo=github&label=&color=00E5FF) |
 
 </div>
 
